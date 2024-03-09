@@ -1,3 +1,3 @@
-#Nav Sample
-Simple Nav template.
+#Nav Sample <br/>
+Simple Nav template.<br/>
 View site here.
